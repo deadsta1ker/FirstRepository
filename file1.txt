@@ -1,5 +1,3 @@
 Hello, world!
 I don't understand you.
-Привет, мир!
-Проверка изменений...
 Add new change
