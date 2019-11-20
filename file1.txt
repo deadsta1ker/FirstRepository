@@ -1,4 +1,4 @@
 Hello, world!
 I don't understand you.
 Line from user2
-Line2 from user2
+Line2 from user2 (from add-feature1)
