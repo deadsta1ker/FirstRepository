@@ -2,4 +2,5 @@ Hello, world!
 I don't understand you.
 Line from user2
 Line2 from user2 (from branch\master)
+New line from user2
 
