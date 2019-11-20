@@ -1,3 +1,5 @@
 Hello, world!
 I don't understand you.
 Add new change
+Line from user2
+Line2 from user2
